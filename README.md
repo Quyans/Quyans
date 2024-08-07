@@ -10,15 +10,11 @@ Quyans/Quyans is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
 ## Popular Repository
 <table>
   <thead align="center">
     <tr border: none;>
-<!--       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td> -->
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>Forks</b></td>
@@ -50,3 +46,4 @@ You can click the Preview link to take a look at your changes.
     </tr>
   </tbody>
 </table>
+--->

@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently a Ph.D student in [Media Analytics and Computing Lab (MAC)](https://mac.xmu.edu.cn/), Department of Computer Science and Technology, School of Informatics, Xiamen University, China.
 - 👀 I’m interested in NeRF, 3DGS, 3D Computer Vision
-- 📫 How to reach me quyans@stu.xmu.edu.cn
+- 📫 📫 If you have any questions, feel free to email me at quyans@stu.xmu.edu.cn
 
 <!---
 Quyans/Quyans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
